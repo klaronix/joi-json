@@ -1,5 +1,11 @@
 # Change Log
 
+## 5.0.0 (2021-11-25)
+
+Breaking:
+
+* `@hapi/joi` has been deprecated. Switch back to `joi`.
+
 ## 4.0.0 (2019-12-04)
 
 Breaking:
